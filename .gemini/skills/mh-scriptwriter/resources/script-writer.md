@@ -339,3 +339,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 33: Updated Elephant timing constraint. -->
 <!-- Iteration 34: Added Cost of Inaction rule. -->
 <!-- Iteration 36: Shortened CTA target time. -->
+<!-- Iteration 37: Added Pain Pivot phrase. -->
