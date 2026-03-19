@@ -151,7 +151,7 @@ One synthesized takeaway tying all three points together. This is the 5-second m
 - Systems-first. It should change how an operator runs their week, not just how they feel.
 - Pillar-aligned.
 
-**Earnestness check:** Extended sincerity may be appropriate here — up to 2-3 sentences of genuine seriousness. If used, follow with a soft pressure valve (self-aware observation, not a full punchline). Only use if the content earned it.
+**Earnestness check:** Extended sincerity may be appropriate here — up to 2-3 sentences of genuine seriousness. If used, follow with a soft pressure valve (self-aware observation, not a full punchline). *Abrupt Snap Enforced:* Even here, do not let it get overly sentimental. Snap back to operations.
 
 **Callback:** "Tuition paid" often lands here if the lesson came from an expensive mistake.
 
