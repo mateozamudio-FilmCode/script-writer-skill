@@ -330,4 +330,3 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 22: Added ban on 'As an operator' phrases. -->
 <!-- Iteration 22: Added ban on 'As an operator' phrases. -->
 <!-- Iteration 23: Required quantifiable metrics in setups. -->
-<!-- Iteration 24: Added joke requirement to CTA. -->
