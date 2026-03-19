@@ -336,3 +336,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 29: Limited ad-lib brackets. -->
 <!-- Iteration 31: Added 'optimize' to banned words. -->
 <!-- Iteration 32: Added visual metaphor constraint. -->
+<!-- Iteration 33: Updated Elephant timing constraint. -->
