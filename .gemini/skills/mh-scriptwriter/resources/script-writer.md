@@ -195,7 +195,7 @@ Never use academic transitions ("Furthermore," "Additionally," "Moreover," "In c
 Use instead:
 - Causal pivots: "But here's the thing—" / "So what actually happened—" / "And that's when—"
 - Direct audience address: "Now you're thinking—" / "Here's where most of you are going to push back—"
-- **The Abrupt Snap / Whiplash cut:** No transition at all. Hard cut from dry, serious analysis directly into the situational irony/punchline, and then an immediate snap back to the cold operational truth. The collision IS the comedy.
+- **The Abrupt Snap / Whiplash cut:** No transition at all. Hard cut from dry, serious analysis directly into the situational irony/punchline, and then an immediate snap back to the cold operational truth. The collision IS the comedy. *Never* use "Just kidding" or "But seriously." The Pivot Clause after a joke must be a metric, system, or hard pivot.
 
 ---
 
