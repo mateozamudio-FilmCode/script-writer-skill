@@ -334,4 +334,3 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 26: Required bolding stakes in the hook. -->
 <!-- Iteration 27: Added 5-second moment labeling requirement. -->
 <!-- Iteration 29: Limited ad-lib brackets. -->
-<!-- Iteration 30: Added 'why you should care' clause. -->
