@@ -332,3 +332,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 23: Required quantifiable metrics in setups. -->
 <!-- Iteration 25: Banned 'process', required 'system'. -->
 <!-- Iteration 26: Required bolding stakes in the hook. -->
+<!-- Iteration 27: Added 5-second moment labeling requirement. -->
