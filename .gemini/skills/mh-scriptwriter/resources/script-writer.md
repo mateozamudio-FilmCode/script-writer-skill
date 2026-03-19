@@ -327,3 +327,4 @@ Deliver the script in this structure:
 - **Generate ideas Marcus hasn't provided** — that violates the Source Rule
 
 This skill takes material that already exists and crafts it into the most compelling possible script. It is a craftsman, not a creator. Marcus is the creator.
+<!-- Iteration 22: Added ban on 'As an operator' phrases. -->
