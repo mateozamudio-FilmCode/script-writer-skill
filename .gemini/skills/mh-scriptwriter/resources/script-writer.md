@@ -124,7 +124,7 @@ Every point must include ALL of:
 - **A callback opportunity** — flag where a running bit fits naturally
 
 **Engagement mechanics to deploy in Point 1:**
-- **Backpack** before the story: load what Marcus was hoping for and afraid of
+- **Backpack** before the story: load what Marcus was hoping for and afraid of. The humor only works if they feel the tension first.
 - **But/Therefore** connections between every beat
 - **Cinema of the Mind**: the story happens in a specific place
 
