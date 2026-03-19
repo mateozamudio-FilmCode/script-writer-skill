@@ -328,3 +328,4 @@ Deliver the script in this structure:
 
 This skill takes material that already exists and crafts it into the most compelling possible script. It is a craftsman, not a creator. Marcus is the creator.
 <!-- Iteration 22: Added ban on 'As an operator' phrases. -->
+<!-- Iteration 22: Added ban on 'As an operator' phrases. -->
