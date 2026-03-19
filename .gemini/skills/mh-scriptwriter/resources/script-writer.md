@@ -338,3 +338,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 32: Added visual metaphor constraint. -->
 <!-- Iteration 33: Updated Elephant timing constraint. -->
 <!-- Iteration 34: Added Cost of Inaction rule. -->
+<!-- Iteration 35: Modified callback rules. -->
