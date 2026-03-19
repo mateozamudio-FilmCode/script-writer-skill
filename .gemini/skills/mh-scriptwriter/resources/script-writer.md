@@ -342,3 +342,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 37: Added Pain Pivot phrase. -->
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
+<!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
