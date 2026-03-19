@@ -120,6 +120,7 @@ Every point must include ALL of:
 - **The Application** — what the operator should do differently. Concrete enough to execute.
 - **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. Use an escalating analogy or situational irony based on the data/concept just presented. End with an 'Abrupt Snap' back to the cold problem. 
   - *The Humor Pre-Requisite:* A joke cannot exist without a preceding data point or hard operational truth.
+  - *The Joke Audit:* If you delete the setup and the joke still makes sense, it's a generic joke. Rewrite it so it ONLY works in this exact operational context.
 - **A callback opportunity** — flag where a running bit fits naturally
 
 **Engagement mechanics to deploy in Point 1:**
