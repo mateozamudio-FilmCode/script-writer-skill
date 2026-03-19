@@ -118,7 +118,7 @@ Every point must include ALL of:
 - **The story** — the specific proof point from his experience. Physical location. Timeline. What happened. What it cost.
 - **The framework** — the system or principle that emerged from the story
 - **The Application** — what the operator should do differently. Concrete enough to execute.
-- **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. Use an escalating analogy or situational irony based on the data/concept just presented. End with an 'Abrupt Snap' back to the cold problem. 
+- **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. The Humor Beat MUST use an escalating analogy related to the data point just given. End with an 'Abrupt Snap' back to the cold problem. 
   - *The Humor Pre-Requisite:* A joke cannot exist without a preceding data point or hard operational truth.
   - *The Joke Audit:* If you delete the setup and the joke still makes sense, it's a generic joke. Rewrite it so it ONLY works in this exact operational context.
   - *Formatting:* **Bold** the load-bearing joke in your draft so it can be audited.
@@ -196,7 +196,7 @@ Never use academic transitions ("Furthermore," "Additionally," "Moreover," "In c
 Use instead:
 - Causal pivots: "But here's the thing—" / "So what actually happened—" / "And that's when—"
 - Direct audience address: "Now you're thinking—" / "Here's where most of you are going to push back—"
-- **The Abrupt Snap / Whiplash cut:** No transition at all. Hard cut from dry, serious analysis directly into the situational irony/punchline, and then an immediate snap back to the cold operational truth. The collision IS the comedy. *Never* use "Just kidding" or "But seriously." The Pivot Clause after a joke must be a metric, system, or hard pivot.
+- **The Abrupt Snap / Whiplash cut:** No transition at all. Hard cut from dry, serious analysis directly into the situational irony/punchline, and then an immediate snap back to the cold operational truth. The collision IS the comedy. *Never* use "Just kidding" or "But seriously." The Pivot Clause after a joke MUST start with a Hard Pivot Phrase (e.g., "But the math says...", "The spreadsheet shows...", "Here is the reality:").
 
 ---
 
@@ -260,6 +260,9 @@ Before delivering the script, run these checks yourself. Do NOT deliver a script
 3. Show, don't tell?
 4. Speakable — reads like talking, not writing?
 5. Active verbs carrying prose?
+
+### The Final Audit
+Read the script aloud. If the tone at any point sounds like a pure cynic rather than an optimist who has been bruised by operations, rewrite it. The humor must carry hope for the rigorous operator.
 
 Include the completed checklist at the end of the script delivery so Marcus can see what passed and what needs attention.
 
