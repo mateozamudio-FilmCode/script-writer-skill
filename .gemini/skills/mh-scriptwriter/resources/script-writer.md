@@ -95,7 +95,7 @@ Pick the strongest format from the outline:
 - **Confession:** "I [specific costly mistake] and it [specific consequence]"
 - **Contrarian:** The most counterintuitive claim from the material, stated without qualification
 - **Pattern Interrupt:** Drop into the middle of a story mid-action
-- **Stakes + Dark Humor:** "[Specific disaster] — which is a really healthy thing to discover at [worst possible moment]"
+- **Stakes + Dark Humor:** "[Specific disaster] — which is a really healthy thing to discover at [worst possible moment] - immediately establish the operational truth."
 
 **Layer 2 — The Scene Anchor (next 10-15 seconds):**
 Physical location. Visual. The audience's mental movie starts here. Forward movement — something is happening, not being described.
