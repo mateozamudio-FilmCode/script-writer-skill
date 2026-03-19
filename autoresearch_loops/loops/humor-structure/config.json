@@ -1,0 +1,50 @@
+{
+  "loop_id": "loop_001_humor_structure",
+  "name": "Humor & Structure Optimization",
+  "created": "2026-03-19T14:00:00Z",
+  "status": "active",
+  
+  "metric": {
+    "type": "internal",
+    "direction": "higher_better",
+    "baseline": null,
+    "target": 18,
+    "revert_threshold": 14
+  },
+  
+  "internal_metric": {
+    "rubric_file": "rubric.json",
+    "evaluation_method": "llm_judge",
+    "passing_score": 18
+  },
+  
+  "targets": {
+    "can_modify": [
+      ".gemini/skills/mh-scriptwriter/resources/script-writer.md"
+    ],
+    "cannot_modify": [
+      {
+        "path": ".gemini/skills/mh-scriptwriter/resources/MARCUS-VOICE.md",
+        "reason": "Brand voice rules should remain standard"
+      },
+      {
+        "path": ".gemini/skills/mh-scriptwriter/resources/copywriting-eval-rubric.md",
+        "reason": "This is the evaluation criteria itself; if changed, grading is compromised"
+      }
+    ]
+  },
+  
+  "execution": {
+    "time_budget_seconds": 300,
+    "max_iterations": 10,
+    "executor": "claude_code",
+    "schedule": "manual"
+  },
+  
+  "results": {
+    "best_score": null,
+    "total_iterations": 0,
+    "improvements": 0,
+    "last_run": null
+  }
+}

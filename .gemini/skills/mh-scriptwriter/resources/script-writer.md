@@ -117,8 +117,8 @@ Every point must include ALL of:
 - **The claim** — stated directly, in Marcus's voice
 - **The story** — the specific proof point from his experience. Physical location. Timeline. What happened. What it cost.
 - **The framework** — the system or principle that emerged from the story
-- **The application** — what the operator should do differently. Concrete enough to execute.
-- **A humor beat** — an escalating analogy, self-roast, audience roast, or whiplash punchline
+- **The Application** — what the operator should do differently. Concrete enough to execute.
+- **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. Use an escalating analogy or situational irony based on the data/concept just presented. End with an 'Abrupt Snap' back to the cold problem.
 - **A callback opportunity** — flag where a running bit fits naturally
 
 **Engagement mechanics to deploy in Point 1:**
@@ -193,7 +193,7 @@ Never use academic transitions ("Furthermore," "Additionally," "Moreover," "In c
 Use instead:
 - Causal pivots: "But here's the thing—" / "So what actually happened—" / "And that's when—"
 - Direct audience address: "Now you're thinking—" / "Here's where most of you are going to push back—"
-- Whiplash cuts: No transition at all. Hard cut from dry analysis to punchline. The collision IS the comedy.
+- **The Abrupt Snap / Whiplash cut:** No transition at all. Hard cut from dry, serious analysis directly into the situational irony/punchline, and then an immediate snap back to the cold operational truth. The collision IS the comedy.
 
 ---
 

@@ -1,0 +1,35 @@
+{
+  "criteria": [
+    {
+      "name": "Humor Integration (The Hummiston/Hormozi Standard)",
+      "description": "Jokes must be 'load-bearing.' They should use the serious setup as the punchline rather than stopping the video to 'tell a joke.' Is it situational? Does the seriousness set it up? Does it end in an 'Abrupt Snap'?",
+      "weight": 5,
+      "scale": "5=Mocking the data, serious setup creates the snap; 3=Humor Gap (a temporary break from content); 1=Generic or dad jokes",
+      "minimum": 3
+    },
+    {
+      "name": "Expression Economy & Brand 'Lore'",
+      "description": "Prevent brand slogans from becoming repetitive filler. Ensure proprietary terms are defined before they are used as a mantra.",
+      "weight": 5,
+      "scale": "5=Used once at high impact, terms defined early; 3=Used 2-3 times losing punch, definition buried; 1=Relies on catchphrases as crutch, unexplained lore",
+      "minimum": 3
+    },
+    {
+      "name": "Rhythmic Flow (The Rule of 3s)",
+      "description": "The script should feel like a late-night strategy session between peers, not a keynote speech. Make frequent use of the Rule of Three for punchy delivery.",
+      "weight": 5,
+      "scale": "5=Natural progression, frequent Rule of 3s; 3=Distinct listicle-style sections; 1=Heavy Corporate Speak or overly formal transitions",
+      "minimum": 3
+    },
+    {
+      "name": "Procedural vs. Declarative Knowledge",
+      "description": "Move from philosophy to actionable decisions. Include concrete data points or operational changes.",
+      "weight": 5,
+      "scale": "5=Concrete 'Procedural Moment' with specific data; 3=Describes learning process but lacks Monday Morning application; 1=Purely philosophical",
+      "minimum": 3
+    }
+  ],
+  "passing_score": 14,
+  "max_score": 20,
+  "evaluation_prompt": "You are a senior brand auditor for the 'Operational Realist' persona. Read the provided script and evaluate it against the following rubric. Provide a score for each criterion and a brief 1-sentence justification. Ensure your total score is the sum of the four criteria (Max 20)."
+}
