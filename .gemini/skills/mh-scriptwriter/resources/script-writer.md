@@ -118,7 +118,8 @@ Every point must include ALL of:
 - **The story** — the specific proof point from his experience. Physical location. Timeline. What happened. What it cost.
 - **The framework** — the system or principle that emerged from the story
 - **The Application** — what the operator should do differently. Concrete enough to execute.
-- **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. Use an escalating analogy or situational irony based on the data/concept just presented. End with an 'Abrupt Snap' back to the cold problem.
+- **The Load-Bearing Humor Beat** — The joke MUST arise from the seriousness of the setup. Do not break flow. Use an escalating analogy or situational irony based on the data/concept just presented. End with an 'Abrupt Snap' back to the cold problem. 
+  - *The Humor Pre-Requisite:* A joke cannot exist without a preceding data point or hard operational truth.
 - **A callback opportunity** — flag where a running bit fits naturally
 
 **Engagement mechanics to deploy in Point 1:**
