@@ -335,3 +335,4 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 27: Added 5-second moment labeling requirement. -->
 <!-- Iteration 29: Limited ad-lib brackets. -->
 <!-- Iteration 31: Added 'optimize' to banned words. -->
+<!-- Iteration 32: Added visual metaphor constraint. -->
