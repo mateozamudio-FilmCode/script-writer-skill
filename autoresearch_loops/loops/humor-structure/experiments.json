@@ -591,5 +591,17 @@
         "kept":  true,
         "duration_seconds":  14,
         "notes":  "Prevents the script from becoming too loose."
+    },
+    {
+        "iteration":  50,
+        "timestamp":  "2026-03-27T13:38:16Z",
+        "hypothesis":  "Require an explicit \u0027Why you should care\u0027 clause early.",
+        "changes_made":  "Added \u0027why you should care\u0027 clause.",
+        "metric_value":  19.7,
+        "previous_best":  20,
+        "improvement":  0.3,
+        "kept":  false,
+        "duration_seconds":  15,
+        "notes":  "Reverted. Feels too much like other YouTubers."
     }
 ]
