@@ -663,5 +663,17 @@
         "kept":  false,
         "duration_seconds":  15,
         "notes":  "Reverted. Reduced the organic flow of the humor."
+    },
+    {
+        "iteration":  56,
+        "timestamp":  "2026-03-27T13:44:16Z",
+        "hypothesis":  "Require the final CTA to be no more than 15 seconds.",
+        "changes_made":  "Shortened CTA target time.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  16,
+        "notes":  "Ensures the ending hits hard and fast."
     }
 ]
