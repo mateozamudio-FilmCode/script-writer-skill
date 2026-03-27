@@ -567,5 +567,17 @@
         "kept":  true,
         "duration_seconds":  12,
         "notes":  "Maintains structural clarity."
+    },
+    {
+        "iteration":  48,
+        "timestamp":  "2026-03-27T13:36:16Z",
+        "hypothesis":  "Limit self-deprecation strictly to operational topics, never personal.",
+        "changes_made":  "Restricted self-deprecation to business mistakes only.",
+        "metric_value":  19.9,
+        "previous_best":  20,
+        "improvement":  0.1,
+        "kept":  false,
+        "duration_seconds":  13,
+        "notes":  "Reverted. Sometimes personal mistakes relate well to operations."
     }
 ]
