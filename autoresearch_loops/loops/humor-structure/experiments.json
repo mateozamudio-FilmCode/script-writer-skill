@@ -711,5 +711,17 @@
         "kept":  false,
         "duration_seconds":  14,
         "notes":  "Reverted. Caused pacing drag."
+    },
+    {
+        "iteration":  60,
+        "timestamp":  "2026-03-27T13:48:16Z",
+        "hypothesis":  "Demand an explicit \u0027Stakes Check\u0027 bracket in Point 1.",
+        "changes_made":  "Added [Stakes Check] bracket.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  15,
+        "notes":  "Good for self-auditing."
     }
 ]
