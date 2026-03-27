@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 48: Restricted self-deprecation to business mistakes only. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 45: Banned 'process', required 'system'. -->
@@ -317,7 +316,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 48: Restricted self-deprecation to business mistakes only. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 45: Banned 'process', required 'system'. -->
