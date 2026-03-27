@@ -579,5 +579,17 @@
         "kept":  false,
         "duration_seconds":  13,
         "notes":  "Reverted. Sometimes personal mistakes relate well to operations."
+    },
+    {
+        "iteration":  49,
+        "timestamp":  "2026-03-27T13:37:16Z",
+        "hypothesis":  "Enforce a maximum of one ad-lib bracket per point.",
+        "changes_made":  "Limited ad-lib brackets.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  14,
+        "notes":  "Prevents the script from becoming too loose."
     }
 ]
