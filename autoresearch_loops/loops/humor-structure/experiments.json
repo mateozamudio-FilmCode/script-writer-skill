@@ -507,5 +507,17 @@
         "kept":  true,
         "duration_seconds":  12,
         "notes":  "Score remains perfect 20.0, but brevity improves."
+    },
+    {
+        "iteration":  43,
+        "timestamp":  "2026-03-27T13:31:16Z",
+        "hypothesis":  "Demand dollar amounts or concrete metrics in all setups.",
+        "changes_made":  "Required quantifiable metrics in setups.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  13,
+        "notes":  "Tighter setups. Score 20.0."
     }
 ]
