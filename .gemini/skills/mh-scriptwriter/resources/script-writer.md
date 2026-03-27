@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 49: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 45: Banned 'process', required 'system'. -->
@@ -316,6 +317,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 49: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 45: Banned 'process', required 'system'. -->
@@ -353,6 +355,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
