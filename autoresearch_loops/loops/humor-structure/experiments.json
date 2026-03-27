@@ -651,5 +651,17 @@
         "kept":  true,
         "duration_seconds":  14,
         "notes":  "Raises the stakes perfectly for the final point."
+    },
+    {
+        "iteration":  55,
+        "timestamp":  "2026-03-27T13:43:16Z",
+        "hypothesis":  "Make callbacks strictly structural, not situational.",
+        "changes_made":  "Modified callback rules.",
+        "metric_value":  19.8,
+        "previous_best":  20,
+        "improvement":  0.2,
+        "kept":  false,
+        "duration_seconds":  15,
+        "notes":  "Reverted. Reduced the organic flow of the humor."
     }
 ]
