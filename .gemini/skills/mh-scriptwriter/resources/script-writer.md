@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 44: Added joke requirement to CTA. -->
 <!-- AutoResearch Iteration 43: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 42: Added ban on 'As an operator' phrases. -->
 
@@ -314,7 +313,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 44: Added joke requirement to CTA. -->
 <!-- AutoResearch Iteration 43: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 42: Added ban on 'As an operator' phrases. --> Summary
 [List all flags from the script in one place]
