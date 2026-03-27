@@ -699,5 +699,17 @@
         "kept":  true,
         "duration_seconds":  13,
         "notes":  "Makes visuals more engaging."
+    },
+    {
+        "iteration":  59,
+        "timestamp":  "2026-03-27T13:47:16Z",
+        "hypothesis":  "Force a rhetorical question at the start of Point 2.",
+        "changes_made":  "Required rhetorical question.",
+        "metric_value":  19.9,
+        "previous_best":  20,
+        "improvement":  0.1,
+        "kept":  false,
+        "duration_seconds":  14,
+        "notes":  "Reverted. Caused pacing drag."
     }
 ]
