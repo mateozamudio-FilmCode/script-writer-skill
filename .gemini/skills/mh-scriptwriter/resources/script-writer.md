@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 54: Added Cost of Inaction rule. -->
 <!-- AutoResearch Iteration 53: Updated Elephant timing constraint. -->
 <!-- AutoResearch Iteration 52: Added visual metaphor constraint. -->
 <!-- AutoResearch Iteration 51: Added 'optimize' to banned words. -->
@@ -320,6 +321,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 54: Added Cost of Inaction rule. -->
 <!-- AutoResearch Iteration 53: Updated Elephant timing constraint. -->
 <!-- AutoResearch Iteration 52: Added visual metaphor constraint. -->
 <!-- AutoResearch Iteration 51: Added 'optimize' to banned words. -->
@@ -361,6 +363,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
