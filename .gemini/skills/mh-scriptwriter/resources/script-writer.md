@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 50: Added 'why you should care' clause. -->
 <!-- AutoResearch Iteration 49: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
@@ -318,7 +317,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 50: Added 'why you should care' clause. -->
 <!-- AutoResearch Iteration 49: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 47: Added 5-second moment labeling requirement. -->
 <!-- AutoResearch Iteration 46: Required bolding stakes in the hook. -->
