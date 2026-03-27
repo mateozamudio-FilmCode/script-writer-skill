@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 59: Required rhetorical question. -->
 <!-- AutoResearch Iteration 58: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 57: Added Pain Pivot phrase. -->
 <!-- AutoResearch Iteration 56: Shortened CTA target time. -->
@@ -325,7 +324,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 59: Required rhetorical question. -->
 <!-- AutoResearch Iteration 58: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 57: Added Pain Pivot phrase. -->
 <!-- AutoResearch Iteration 56: Shortened CTA target time. -->
