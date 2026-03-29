@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 72: Added visual metaphor constraint. -->
 <!-- AutoResearch Iteration 71: Added 'optimize' to banned words. -->
 <!-- AutoResearch Iteration 69: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 67: Added 5-second moment labeling requirement. -->
@@ -333,6 +334,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 72: Added visual metaphor constraint. -->
 <!-- AutoResearch Iteration 71: Added 'optimize' to banned words. -->
 <!-- AutoResearch Iteration 69: Limited ad-lib brackets. -->
 <!-- AutoResearch Iteration 67: Added 5-second moment labeling requirement. -->
@@ -387,6 +389,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
