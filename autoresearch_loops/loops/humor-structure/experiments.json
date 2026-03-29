@@ -776,5 +776,17 @@
         "kept":  false,
         "duration_seconds":  14,
         "notes":  "Reverted. Undermined the Call to Action\u0027s authority."
+    },
+    {
+        "iteration":  65,
+        "timestamp":  "2026-03-29T00:58:46Z",
+        "hypothesis":  "Require the Word \u0027System\u0027 instead of \u0027Process\u0027.",
+        "changes_made":  "Banned \u0027process\u0027, required \u0027system\u0027.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  15,
+        "notes":  "Stronger mechanical tone. Score 20.0."
     }
 ]
