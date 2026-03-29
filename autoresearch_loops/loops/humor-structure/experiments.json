@@ -764,5 +764,17 @@
         "kept":  true,
         "duration_seconds":  13,
         "notes":  "Tighter setups. Score 20.0."
+    },
+    {
+        "iteration":  64,
+        "timestamp":  "2026-03-29T00:57:46Z",
+        "hypothesis":  "Force humor in the final 10 seconds of the video.",
+        "changes_made":  "Added joke requirement to CTA.",
+        "metric_value":  19.5,
+        "previous_best":  20,
+        "improvement":  0.5,
+        "kept":  false,
+        "duration_seconds":  14,
+        "notes":  "Reverted. Undermined the Call to Action\u0027s authority."
     }
 ]
