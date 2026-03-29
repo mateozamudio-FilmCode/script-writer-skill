@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 64: Added joke requirement to CTA. -->
 <!-- AutoResearch Iteration 63: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 62: Added ban on 'As an operator' phrases. -->
 <!-- AutoResearch Iteration 61: Added Abrupt Snap to The Lesson. -->
@@ -329,7 +328,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 64: Added joke requirement to CTA. -->
 <!-- AutoResearch Iteration 63: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 62: Added ban on 'As an operator' phrases. -->
 <!-- AutoResearch Iteration 61: Added Abrupt Snap to The Lesson. -->
