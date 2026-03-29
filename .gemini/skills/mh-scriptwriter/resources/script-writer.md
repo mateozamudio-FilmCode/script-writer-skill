@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 66: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 65: Banned 'process', required 'system'. -->
 <!-- AutoResearch Iteration 63: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 62: Added ban on 'As an operator' phrases. -->
@@ -329,6 +330,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 66: Required bolding stakes in the hook. -->
 <!-- AutoResearch Iteration 65: Banned 'process', required 'system'. -->
 <!-- AutoResearch Iteration 63: Required quantifiable metrics in setups. -->
 <!-- AutoResearch Iteration 62: Added ban on 'As an operator' phrases. -->
@@ -379,6 +381,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
