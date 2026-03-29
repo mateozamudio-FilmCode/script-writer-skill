@@ -788,5 +788,17 @@
         "kept":  true,
         "duration_seconds":  15,
         "notes":  "Stronger mechanical tone. Score 20.0."
+    },
+    {
+        "iteration":  66,
+        "timestamp":  "2026-03-29T00:59:46Z",
+        "hypothesis":  "Format hooks to use bold for the core stakes.",
+        "changes_made":  "Required bolding stakes in the hook.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  16,
+        "notes":  "Easier to audit the hook\u0027s impact."
     }
 ]
