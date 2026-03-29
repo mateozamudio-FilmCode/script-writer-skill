@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- Reverted Iteration 79: Required rhetorical question. -->
 <!-- AutoResearch Iteration 78: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 77: Added Pain Pivot phrase. -->
 <!-- AutoResearch Iteration 76: Shortened CTA target time. -->
@@ -339,6 +340,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- Reverted Iteration 79: Required rhetorical question. -->
 <!-- AutoResearch Iteration 78: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 77: Added Pain Pivot phrase. -->
 <!-- AutoResearch Iteration 76: Shortened CTA target time. -->
@@ -399,6 +401,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
