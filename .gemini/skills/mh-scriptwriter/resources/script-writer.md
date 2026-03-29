@@ -201,7 +201,6 @@ Use instead:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 75: Modified callback rules. -->
 <!-- AutoResearch Iteration 74: Added Cost of Inaction rule. -->
 <!-- AutoResearch Iteration 73: Updated Elephant timing constraint. -->
 <!-- AutoResearch Iteration 72: Added visual metaphor constraint. -->
@@ -337,7 +336,6 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
-<!-- Reverted Iteration 75: Modified callback rules. -->
 <!-- AutoResearch Iteration 74: Added Cost of Inaction rule. -->
 <!-- AutoResearch Iteration 73: Updated Elephant timing constraint. -->
 <!-- AutoResearch Iteration 72: Added visual metaphor constraint. -->
