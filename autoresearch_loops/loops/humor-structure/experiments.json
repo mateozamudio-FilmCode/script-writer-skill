@@ -860,5 +860,17 @@
         "kept":  true,
         "duration_seconds":  16,
         "notes":  "Forces more specific action verbs."
+    },
+    {
+        "iteration":  72,
+        "timestamp":  "2026-03-29T01:05:46Z",
+        "hypothesis":  "Require at least one visual metaphor involving physical weight.",
+        "changes_made":  "Added visual metaphor constraint.",
+        "metric_value":  20,
+        "previous_best":  20,
+        "improvement":  0,
+        "kept":  true,
+        "duration_seconds":  12,
+        "notes":  "Enhances Cinema of the Mind."
     }
 ]
