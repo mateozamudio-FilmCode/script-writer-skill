@@ -201,6 +201,7 @@ Use instead:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 81: Added Abrupt Snap to The Lesson. -->
 <!-- AutoResearch Iteration 80: Added [Stakes Check] bracket. -->
 <!-- AutoResearch Iteration 78: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 77: Added Pain Pivot phrase. -->
@@ -340,6 +341,7 @@ Deliver the script in this structure:
 ---
 
 ## Quality Flags
+<!-- AutoResearch Iteration 81: Added Abrupt Snap to The Lesson. -->
 <!-- AutoResearch Iteration 80: Added [Stakes Check] bracket. -->
 <!-- AutoResearch Iteration 78: Added contrast rule for B-roll. -->
 <!-- AutoResearch Iteration 77: Added Pain Pivot phrase. -->
@@ -401,6 +403,7 @@ This skill takes material that already exists and crafts it into the most compel
 <!-- Iteration 38: Added contrast rule for B-roll. -->
 <!-- Iteration 40: Added [Stakes Check] bracket. -->
 <!-- Iteration 41: Added Abrupt Snap to The Lesson. -->
+
 
 
 
