@@ -2,34 +2,52 @@
   "criteria": [
     {
       "name": "Humor Integration (The Hummiston/Hormozi Standard)",
-      "description": "Jokes must be 'load-bearing.' They should use the serious setup as the punchline rather than stopping the video to 'tell a joke.' Is it situational? Does the seriousness set it up? Does it end in an 'Abrupt Snap'?",
+      "description": "Jokes must be 'load-bearing,' using technical content as the 'straight man.' Does the AI use 'stupid, stupid examples' (e.g., Vitamin D/Cloudy day)? Does it execute the 'Abrupt Snap' (ending a joke instantly to return to metrics)? Humor must be a byproduct of the situation, not a 'humor gap' that breaks flow.",
       "weight": 5,
-      "scale": "5=Mocking the data, serious setup creates the snap; 3=Humor Gap (a temporary break from content); 1=Generic or dad jokes",
-      "minimum": 3
+      "scale": "5=Situational irony arises from data, serious setup creates the snap, uses 'stupid examples'; 4=Jokes are contextual and snap back; 1=Generic puns or jokes that stop the information flow.",
+      "minimum": 4
     },
     {
-      "name": "Expression Economy & Brand 'Lore'",
-      "description": "Prevent brand slogans from becoming repetitive filler. Ensure proprietary terms are defined before they are used as a mantra.",
+      "name": "Linguistic Economy & Verbal Restraint",
+      "description": "Treat brand anchors (e.g., 'Tuition Paid') as rare currency (Max once). Avoid linguistic 'echoing' (repeating words like 'exactly exactly' back-to-back). Manage profanity density—do not string multiple expletives together.",
       "weight": 5,
-      "scale": "5=Used once at high impact, terms defined early; 3=Used 2-3 times losing punch, definition buried; 1=Relies on catchphrases as crutch, unexplained lore",
-      "minimum": 3
+      "scale": "5=Max 1 anchor, zero word-echoing, controlled intensity/profanity; 4=High variety in word choice, strict anchor control; 1=Uses anchors as crutch, sloppy word repetition.",
+      "minimum": 4
+    },
+    {
+      "name": "Accessibility, Jargon & Lore Onboarding",
+      "description": "Write for a 5th-grade reading level. Define the 'Pain' before naming proprietary frameworks (e.g., 'Never Naked Again'). Define niche industry terms (Arbitrage, Sonder) or math metrics (Pace Reports, Unit-Margin) immediately upon mention to avoid 'insider confusion.'",
+      "weight": 5,
+      "scale": "5=Perfect 5th-grade clarity, 'Pain before Name', jargon defined immediately; 4=Strong clarity, avoids alienating the audience; 1=Insider jargon used without setup.",
+      "minimum": 4
+    },
+    {
+      "name": "Operational Realism (The Math Pivot)",
+      "description": "Prioritize procedural math (margins, pace reports) over results porn or philosophy. Maintain service-first humility; never self-proclaim as a 'savior.' Focus on sharing the 'Monday Morning' process (transparency) rather than just flashing profit percentages.",
+      "weight": 5,
+      "scale": "5=Process-driven math, service-first tone, no 'savior' language; 4=Translates mindset into specific actions/metrics; 1=Purely philosophical or self-aggrandizing.",
+      "minimum": 4
     },
     {
       "name": "Rhythmic Flow (The Rule of 3s)",
-      "description": "The script should feel like a late-night strategy session between peers, not a keynote speech. Make frequent use of the Rule of Three for punchy delivery.",
+      "description": "The script must feel like a late-night strategy session between peers, not a keynote. Use the **Rule of Three** for punchy delivery. Ensure sections flow into one another naturally using conversational transitions rather than formal listicle markers.",
       "weight": 5,
-      "scale": "5=Natural progression, frequent Rule of 3s; 3=Distinct listicle-style sections; 1=Heavy Corporate Speak or overly formal transitions",
-      "minimum": 3
-    },
-    {
-      "name": "Procedural vs. Declarative Knowledge",
-      "description": "Move from philosophy to actionable decisions. Include concrete data points or operational changes.",
-      "weight": 5,
-      "scale": "5=Concrete 'Procedural Moment' with specific data; 3=Describes learning process but lacks Monday Morning application; 1=Purely philosophical",
-      "minimum": 3
+      "scale": "5=Natural peer conversation, masterful use of Rule of 3s; 4=Punchy delivery with smooth transitions; 1=Heavy Corporate Speak or formal 'In conclusion' transitions.",
+      "minimum": 4
     }
   ],
-  "passing_score": 14,
-  "max_score": 20,
-  "evaluation_prompt": "You are a senior brand auditor for the 'Operational Realist' persona. Read the provided script and evaluate it against the following rubric. Provide a score for each criterion and a brief 1-sentence justification. Ensure your total score is the sum of the four criteria (Max 20)."
+  "fail_safe_logic": {
+    "immediate_skill_rejection_conditions": [
+      "Using 'Tuition Paid' or any primary brand anchor more than once per script.",
+      "Repeating the same word back-to-back (e.g., 'exactly exactly').",
+      "Using formal keynote transitions like 'In conclusion', 'Moving to my next point', or 'Firstly/Secondly'.",
+      "Failing to define a niche term (Arbitrage, Sonder) or internal lore (Never Naked) before use.",
+      "Self-proclaiming as a 'savior' or focusing on 'results porn' over process/transparency.",
+      "Using a 'Humor Gap' joke that stops the video flow rather than using the content as the setup.",
+      "Violating the 5th-grade level with academic or overly complex sentence structures."
+    ]
+  },
+  "passing_score": 20,
+  "max_score": 25,
+  "evaluation_prompt": "You are a senior brand auditor for the 'Operational Realist' persona. Evaluate the AI's copywriting skill. First, check for any Fail-Safe Logic violations (e.g., anchor overuse, word repetition, or formal transitions). If any are found, the skill is an automatic 0. Otherwise, provide a score (1-5) for each of the five criteria and a brief 1-sentence justification. Ensure your total score is the sum of the five criteria (Max 25). Any score below 4 in any category is a skill failure."
 }

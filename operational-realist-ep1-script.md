@@ -13,7 +13,7 @@ Tuition paid.
 
 Four years later, I was staring at a negative half-million-dollar cash flow projection because my head of revenue wasn't even producing pace reports — and I didn't have a system that would've caught it. 
 [leans forward]
-I'm Marcus, and I am the Operational Realist.
+I'm Marcus and this is talking to myself
 
 ## 2. THE ELEPHANT [0:20 – 1:00]
 
@@ -23,7 +23,7 @@ The business they're in isn't hospitality. The business they're in is selling wh
 
 **Every single thumbnail has some guy standing in front of a house he doesn't own, pointing at a number he didn't actually make.** 
 But here's the reality:
-I exist to protect founder-operators from losing their life savings to STR fantasies by exposing the real math, labor, and contracts this game actually runs on.
+On this series i will try to protect founder-operators from losing their life savings to STR fantasies by exposing the real math, labor, and contracts this game actually runs on.
 
 ## 3. WHY NOW [1:00 – 1:30]
 
